@@ -1,0 +1,189 @@
+﻿
+
+@{
+    var list = Model as List<StudentQuestViewModel>;
+    //ViewBag.Title = "Làm Bài Thi " + list.First().test.test_code;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div id="content1">
+    <div id="content" style=" width: 80%; height: 100%; float: left;">
+        @{
+            int x = 1;
+            foreach (var item in list)
+            {
+                <div id="quest-@x" class="item-quest">
+                    <div class="quest-title">Câu @x :</div>
+                    <div class="quest-content">
+                        <span>@item.question.content</span>
+                    </div>
+                    <div class="quest-answer" onclick="setAnswer(@x)">
+                        @if (item.student_test.student_answer != null && item.student_test.student_answer.Trim().Equals(item.student_test.answer_a.Trim()))
+                        {
+                            <p class="answer-A" style="float:left">A:</p>
+                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" type="radio" data-stt="@x" value="@item.student_test.answer_a.Trim()" checked />
+                        }
+                        else
+                        {
+                            <p class="answer-A" style="float:left">A:</p>
+                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_a.Trim()" />
+                        }
+                        <div class="span_answer">
+                            <span>@item.student_test.answer_a</span>
+                        </div>
+
+
+                        <p>
+                            <label>
+
+                                @if (item.student_test.student_answer != null && item.student_test.student_answer.Trim().Equals(item.student_test.answer_b.Trim()))
+                                {
+                            <p class="answer-A" style="float:left">B:</p>
+                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_b.Trim()" checked />
+                        }
+                        else
+                        {
+                            <p class="answer-A" style="float:left">B:</p>
+                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_b.Trim()" />
+                        }
+                                <div class="span_answer">
+                                    <span>@item.student_test.answer_b</span>
+                                </div>
+                                </label>
+                                </p>
+                                <p>
+                                    <label>
+                                        @if (item.student_test.student_answer != null && item.student_test.student_answer.Trim().Equals(item.student_test.answer_c.Trim()))
+                                        {
+                                    <p class="answer-A" style="float:left">C:</p>
+                                    <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_c.Trim()" checked />
+                                }
+                                else
+                                {
+                                    <p class="answer-A" style="float:left">C:</p>
+                                    <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_c.Trim()" />
+                                }
+                                        <div class="span_answer">
+                                            <span>@item.student_test.answer_c</span>
+                                        </div>
+                                        </label>
+                                        </p>
+                                        <p>
+                                            <label>
+                                                @if (item.student_test.student_answer != null && item.student_test.student_answer.Trim().Equals(item.student_test.answer_d.Trim()))
+                                                {
+                                            <p class="answer-A" style="float:left">D:</p>
+                                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_d.Trim()" checked />
+                                        }
+                                        else
+                                        {
+                                            <p class="answer-A" style="float:left">D:</p>
+                                            <input name="@item.question.id_question" data-idquest="@item.question.id_question" data-test="@item.student_test.test_code" type="radio" data-stt="@x" value="@item.student_test.answer_d.Trim()" />
+                                        }
+                                                <div class="span_answer">
+                                                    <span>@item.student_test.answer_d</span>
+                                                </div>
+                                                </label>
+                                                </p>
+                                            </div>
+                                        </div>
+                                        x = x + 1;
+                                    }
+        }
+
+    </div>
+    <div id="right1" style="width: 16%; height: 100%; float: left">
+        <div id="right1_1" style="width: 100%; height: 100px">
+
+            
+            <form id="myForm" asp-action="SubmitTest" asp-route-id="@list[0].test.test_code">
+                <a id="nopbai" asp-action="SubmitTest" asp-route-id="@list[0].test.test_code" class="button button1"
+                   style="margin-left: 40%;width: 100%;margin-top: 20px;margin-bottom: 10px;"
+                   onclick="return confirm('Xác nhận nộp bài?')">Nộp Bài</a>
+            </form>
+
+        </div>
+        <div id="right1_2" style=" width: 100%; height: 100px;clear:both">
+            <span id="demo"></span>
+        </div>
+
+        <div id="right1_3" style=" width: 100%; height: 150px;clear:both">
+
+            <div id="but"></div>
+        </div>
+        <div id="note" style=" width: 100%; height: 100px;clear:both">
+            <input style="border-color: black" type="button"> Chưa làm
+            <input style="background-color: red" type="button"> Đã làm
+            <input style="background-color: green" type="button">Có thể sai
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<script>
+
+    $(function () {
+        $('input[type=radio]').change(function () {
+
+            var stt = $(this).data("stt");
+            var idquest = $(this).data("idquest");
+             var test_code = $(this).data("test");
+            //alert("ha");
+            var value = $(this).val();
+            var data = {
+                id: idquest,
+                answer: value,
+                code:test_code,
+                //min: min,
+                //sec: sec
+            }
+            var url = "@Url.Action("UpdateStudentTest")";
+
+            var success = function (result) {
+                $('#tick-' + stt).text("✓");
+
+            };
+            $.post(url, data);
+        })
+    })
+    $(window).scroll(function () {
+        $('#footer').css("display", "none");
+        if (window.pageYOffset > 30) {
+            $('.testing-left').css("top", "65px").css("height", "calc(100% - 65px)");
+            $('#timer').css("margin-top", "0px");
+        }
+        if (window.pageYOffset < 30) {
+            $('.testing-left').css("top", "95px").css("height", "calc(100% - 95px)");
+            $('#timer').css("margin-top", "30px");
+        }
+    });
+    //jQuery for Page Scroll - Single page
+    $('a[href*="#"]:not([href="#"])').click(function () {
+        if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            if (target.length) {
+                $('html, body').animate({
+                    scrollTop: target.offset().top - 65
+                }, 500);
+                return false;
+            }
+        }
+    });
+    window.onbeforeunload = function () {
+        var url = "@Url.Action("UpdateTiming")"
+        var data = {
+            min: min,
+            sec: sec
+        }
+        var success = function () {};
+        $.post(url, data, success);
+    }
+
+
+</script>
+

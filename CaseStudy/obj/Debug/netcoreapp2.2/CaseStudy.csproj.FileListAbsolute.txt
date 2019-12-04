@@ -1,0 +1,339 @@
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CoreCompileInputs.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+D:\Module 2\Test\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\DoingTest.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\PreviewTest.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Create.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Delete.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Details.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Edit.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Index.g.cshtml.cs
+D:\Module 2\Test\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\DoingTest.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\PreviewTest.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\DoingTest.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\PreviewTest.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Create.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Delete.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Details.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Edit.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Index.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\DELL\Desktop\CaseStudy1\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\DoingTest.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\PreviewTest.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Create.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Delete.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Details.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Edit.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Index.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+C:\Users\NGUYEN DANG MY\Desktop\CaseStudy1231231\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\appsettings.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.deps.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.runtimeconfig.dev.json
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.dll
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.pdb
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.dll
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\bin\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csprojAssemblyReference.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorAssemblyInfo.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfoInputs.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.AssemblyInfo.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.input.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.TagHelpers.output.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorCoreGenerate.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\questions\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\quests_of_test\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\scores\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\students\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\DoingTest.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\Student\PreviewTest.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\student_test_detail\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\subjects\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Create.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Delete.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Details.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Edit.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\tests\Index.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cache
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.RazorTargetAssemblyInfo.cs
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.Views.pdb
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.dll
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.pdb
+E:\CODEGYM\Hackthon\CaseStudyTrinhBay\CaseStudy\CaseStudy\obj\Debug\netcoreapp2.2\CaseStudy.csproj.CopyComplete

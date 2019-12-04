@@ -1,0 +1,57 @@
+﻿
+#content1 {
+    background-image: url("../img/bg-footer.png");
+    ​
+}
+
+#right_1 {
+    
+    margin:20px;
+    position: relative;
+
+    left: 50px;
+    background-repeat: no-repeat;
+}
+#right_2 {
+    margin:10px;
+    position: relative;
+    left: 50px;
+    background-repeat: no-repeat;
+}
+
+#content_12 {
+    position: relative;
+    background-image: url("../img/logo1.jpg");
+    left: 50px;
+    background-repeat: no-repeat;
+}
+
+#content_13 {
+    position: relative;
+    background-image: url("../img/logo2.png");
+    left: 50px;
+    background-repeat: no-repeat;
+}
+
+#content_11 {
+    position: relative;
+    background-image: url("../img/codegym.png");
+    left: 50px;
+    background-repeat: no-repeat;
+}
+
+#text {
+    font-style: oblique;
+    font-weight: bold;
+    color: #3498db;
+    line-height: 20px;
+}
+
+#right1_3{
+    position:absolute;
+    left:120px;
+}
+
+
+
+

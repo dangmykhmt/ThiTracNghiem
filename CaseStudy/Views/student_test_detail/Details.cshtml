@@ -1,0 +1,66 @@
+﻿@model CaseStudy.Model.student_test_detail
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>student_test_detail</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.student)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.student.id_student)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.question)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.question.id_question)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.answer_a)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.answer_a)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.answer_b)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.answer_b)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.answer_c)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.answer_c)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.answer_d)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.answer_d)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.student_answer)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.student_answer)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.test_code)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.test_code)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ID">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

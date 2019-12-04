@@ -1,0 +1,36 @@
+﻿@model CaseStudy.Model.test
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>test</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.test_name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.test_name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.subject)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.subject.id_subject)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.total_questions)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.total_questions)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.test_code">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
